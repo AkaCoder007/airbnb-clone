@@ -10,6 +10,7 @@ const Mediumcard = ({ img, title, key }) => {
           src={img}
           layout="fill"
           objectFit="contain"
+          alt="mediumcard"
         />
       </div>
       <h2 className="text-xl  font-semibold">{title}</h2>

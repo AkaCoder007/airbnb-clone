@@ -5,7 +5,13 @@ const Largecard = ({ img, title, description, buttonText }) => {
   return (
     <section className="relative py-16">
       <div className="relative h-[28rem] min-w-[300px] lg:aspect-h-7 lg:aspect-w-16 ">
-        <Image className="" src={img} layout="fill" objectFit="cover" />
+        <Image
+          className=""
+          src={img}
+          layout="fill"
+          objectFit="cover"
+          alt="largecardimage"
+        />
       </div>
 
       <div className="absolute top-20 w-1/2 lg:w-1/3 lg:px-10">

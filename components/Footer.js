@@ -20,7 +20,7 @@ const Footer = () => {
         <p>Investors</p>
         <p>Airbnb Luxe</p>
       </div>
-      <div className="space-y-3 text-sm text-gray-800 border-b-2 py-5  border-solid border-gray-30">
+      <div className="space-y-3 text-sm text-gray-800 border-b-2 pb-5  border-solid border-gray-30">
         <h5 className="font-bold">About</h5>
         <p>Newsroom</p>
         <p>Learn about new features</p>
@@ -30,14 +30,14 @@ const Footer = () => {
         <p>Airbnb Luxe</p>
       </div>
 
-      <div className="space-y-3 text-sm text-gray-800 border-b-2 py-5  border-solid border-gray-30">
+      <div className="space-y-3 text-sm text-gray-800 border-b-2 pb-5  border-solid border-gray-30">
         <h5 className="font-bold">Community</h5>
         <p>Newsroom</p>
         <p>Learn about new features</p>
         <p>Investors</p>
         <p>Airbnb Luxe</p>
       </div>
-      <div className="space-y-3 text-sm text-gray-800 border-b-2  py-5  border-solid border-gray-30">
+      <div className="space-y-3 text-sm text-gray-800 border-b-2  pb-5  border-solid border-gray-30">
         <h5 className="font-bold">Hosting</h5>
         <p>Newsroom</p>
         <p>Learn about new features</p>

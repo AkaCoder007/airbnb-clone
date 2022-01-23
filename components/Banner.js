@@ -12,6 +12,7 @@ export default function Banner() {
           layout="fill"
           objectFit="cover"
           className=" md:rounded-r-3xl"
+          alt="bannerimage"
         />
 
         <div className="absolute space-y-4 top-96 w-full text-center">
