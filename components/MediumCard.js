@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 
-const Mediumcard = ({ img, title, key }) => {
+const Mediumcard = ({ img, title }) => {
   return (
     <div className="space-y-2 m-2 mt-5 hover:scale-105  transition transform duration-300 ease-out ">
       <div className="relative h-52 w-52 sm:w-60 sm:h-60 md:w-72 md:h-72 rounded-2xl">
