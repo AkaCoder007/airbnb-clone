@@ -32,7 +32,7 @@ export default function Banner() {
               className="bg-gradient-to-r from-pink-900 to-pink-700  text-transparent bg-clip-text text-md font-bold md:text-xl
             "
             >
-              I'm flexible
+              I&apos;m flexible
             </span>
           </button>
         </div>
